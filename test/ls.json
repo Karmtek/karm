@@ -1,5 +1,5 @@
 {    
     "interpreter": "zsh",
     "bin" : "python3",
-    "args" : ["${HOME_DIR}/${FILENAME}"],   
+    "args" : ["${HOME_DIR}/${FILENAME}"]
 }
